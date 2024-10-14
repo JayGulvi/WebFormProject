@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|c:\\users\\jay gulvi\\source\\repos\\webformprac2\\webformprac2\\addprod.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|solutionrelative:webformprac2\\addprod.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|c:\\users\\jay gulvi\\source\\repos\\webformprac2\\webformprac2\\index2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|solutionrelative:webformprac2\\index2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|c:\\users\\jay gulvi\\source\\repos\\webformprac2\\webformprac2\\index2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|solutionrelative:webformprac2\\index2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|c:\\users\\jay gulvi\\source\\repos\\webformprac2\\webformprac2\\addprod.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|solutionrelative:webformprac2\\addprod.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\webformprac2\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|solutionrelative:webformprac2\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\webformprac2\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|solutionrelative:webformprac2\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\webformprac2\\productsdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|solutionrelative:webformprac2\\productsdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|c:\\users\\jay gulvi\\source\\repos\\webformprac2\\webformprac2\\productsdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|solutionrelative:webformprac2\\productsdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\webformprac2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|solutionrelative:webformprac2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\webformprac2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{664F357E-C9D7-46AE-B6DB-28965287EB95}|WebFormPrac2\\WebFormPrac2.csproj|solutionrelative:webformprac2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\Index2.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormPrac2\\Index2.aspx.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\Index2.aspx.cs",
+              "RelativeToolTip": "WebFormPrac2\\Index2.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:32:15.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index2.aspx",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\Index2.aspx",
+              "RelativeDocumentMoniker": "WebFormPrac2\\Index2.aspx",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\Index2.aspx",
+              "RelativeToolTip": "WebFormPrac2\\Index2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T18:30:27.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProd.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\AddProd.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormPrac2\\AddProd.aspx.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\AddProd.aspx.cs",
+              "RelativeToolTip": "WebFormPrac2\\AddProd.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:20:03.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProd.aspx",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\AddProd.aspx",
+              "RelativeDocumentMoniker": "WebFormPrac2\\AddProd.aspx",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\AddProd.aspx",
+              "RelativeToolTip": "WebFormPrac2\\AddProd.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T18:19:49.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\packages.config",
+              "RelativeDocumentMoniker": "WebFormPrac2\\packages.config",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\packages.config",
+              "RelativeToolTip": "WebFormPrac2\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-08T17:31:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormPrac2\\Index.aspx.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\Index.aspx.cs",
+              "RelativeToolTip": "WebFormPrac2\\Index.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:18:17.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\Index.aspx",
+              "RelativeDocumentMoniker": "WebFormPrac2\\Index.aspx",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\Index.aspx",
+              "RelativeToolTip": "WebFormPrac2\\Index.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T17:18:10.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\ProductsDetails.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormPrac2\\ProductsDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\ProductsDetails.aspx.cs",
+              "RelativeToolTip": "WebFormPrac2\\ProductsDetails.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:06:58.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\ProductsDetails.aspx",
+              "RelativeDocumentMoniker": "WebFormPrac2\\ProductsDetails.aspx",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\ProductsDetails.aspx",
+              "RelativeToolTip": "WebFormPrac2\\ProductsDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T17:04:13.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\Web.config",
+              "RelativeDocumentMoniker": "WebFormPrac2\\Web.config",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\WebFormPrac2\\WebFormPrac2\\Web.config",
+              "RelativeToolTip": "WebFormPrac2\\Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-08T16:55:18.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
